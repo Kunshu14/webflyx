@@ -1,1 +1,5 @@
-bootdev run 71127960-79af-452d-a732-0c44908ca7bf -s
+- "May the Force be with you"
+- "I find your lack of faith disturbing"
+- "I am your father"
+- "Do or do not. There is no try"
+- "I've got a bad feeling about this"
